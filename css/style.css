@@ -42,13 +42,7 @@ p{
 .social-icons a{
 	margin-left:23px;
 	color: white;
-	display:block; 
-	width:100%; 
-	height:100%;  
-	position:absolute; 
-	top:0px; 
-	z-index:100
-}
+}	
 
 .line-break{
 	width: 325px;
